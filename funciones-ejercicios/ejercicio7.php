@@ -18,4 +18,6 @@ if($caracteres<=150){
     echo "$caracteres caracteres. Ha excedido los 150 disponibles =/";
 }
 
+//*echo strlen($comentario > 150) ? "Este comentario es inválido" : true;
+
 ?>
